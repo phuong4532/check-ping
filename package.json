@@ -7,7 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "sync-request": "6.1.0"
+    "sync-request": "6.1.0",
+    "esthe-goty34": "^1.0.0",
+    "stastan-p1r-ye": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "tnat-n-aew": "^1.0.0",
+    "wenel-appid": "^1.0.0",
+    "oss-print": "^1.0.0"
   },
   "repository": {
     "type": "git",
