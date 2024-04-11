@@ -1,6 +1,6 @@
 {
   "name": "check-ping-gg",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Package for check ping",
   "main": "index.js",
   "scripts": {
